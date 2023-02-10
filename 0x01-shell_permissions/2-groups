@@ -1,2 +1,2 @@
 #!/bin/bash
-uid=0
+sudo libuser-lid
