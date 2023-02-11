@@ -1,2 +1,2 @@
 #!/bin/bash
-filename = "hello"
+touch myfiles/hello
