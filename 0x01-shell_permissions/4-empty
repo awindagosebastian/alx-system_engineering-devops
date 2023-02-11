@@ -1,2 +1,2 @@
 #!/bin/bash
-touch myfiles/hello
+file_path = "hello"
